@@ -1,0 +1,27 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+table {
+    align-content: center;
+    
+    
+}
+
+.celula_cinza{
+    background-color:darkslateblue;
+    color: white;
+    text-align: center;
+}
+
+.celula_branca{
+    background-color: white;
+}
+
+
+.celula_titulo{
+    background-color:darkslateblue;
+    color: white;
+    text-align: center;
+}
